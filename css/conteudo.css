@@ -1,0 +1,80 @@
+
+
+
+
+ .quadrado{
+	
+	 margin-left:1%;
+	 margin-bottom:5%;
+	 margin-top:10%;	
+	 background-color:#2F4F4F  ;
+	 color:#000;
+	 float:center;
+	 border:solid #000000 5px;
+	 
+	 border-radius:15px;
+        
+     	 
+				}
+				
+				.menu a {
+	background-color:#000000;
+	padding:20px 10px;
+	text-decoration:none;
+    color:#fff;
+	float:center;
+	margin-top:50px;
+	margin-right:70px;
+	margin-left:70px;
+	border-radius:8px 8px 0px 0px;
+	font-size:20px;
+	font-family:verdana;
+	box-shadow:200px 200px 200px 200px rgba (00,00,00,0.6);
+	
+	
+}
+
+.menu a:hover{
+	background-color:#696969;
+	padding:40px 8px;
+	text-decoration:none;
+    color:#fff;
+	float:center;
+	margin-top:50px;
+	margin-right:10px;
+	margin-left:10px;
+	border-radius:180px;
+	font-size:40px;
+	font-family:verdana;
+	box-shadow:200px 200px 200px 200px rgba (00,00,00,0.6);
+	
+}
+
+#animado_botao{
+	border:solid 1px black;
+	width:1250px;
+	height:42px;
+	font-family:verdana;
+	font-size:24px;
+	font-weight:bold;
+	background-color:#2F4F4F;
+	color:#fff;
+	
+	}
+	#animado_botao:hover {
+		background-color:#ccc;
+		color:#800;
+	}
+	
+	.colunas {width:95%;
+		          margin:20px;				  
+				  
+				  text-align:left;
+				  height:auto;
+				  -moz-column-count:2;
+				  -moz-column-gap:30px;
+				  
+				  
+				  -webkit-column-count:2;
+				  -webkit-column-gap:30px;
+				  }	
